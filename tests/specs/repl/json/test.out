@@ -1,2 +1,3 @@
+{ type: "RunOutput", output: null }
 hello
-2
+{ type: "RunOutput", output: "2" }
